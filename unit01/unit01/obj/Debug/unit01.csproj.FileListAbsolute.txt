@@ -1,0 +1,10 @@
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\bin\Debug\unit01.exe.config
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\bin\Debug\unit01.exe
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\bin\Debug\unit01.pdb
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\obj\Debug\unit01.csprojAssemblyReference.cache
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\obj\Debug\unit01.Form1.resources
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\obj\Debug\unit01.Properties.Resources.resources
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\obj\Debug\unit01.csproj.GenerateResource.cache
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\obj\Debug\unit01.csproj.CoreCompileInputs.cache
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\obj\Debug\unit01.exe
+C:\Users\Asra Winata\source\repos\dedekin23\EPARKING\unit01\unit01\obj\Debug\unit01.pdb
